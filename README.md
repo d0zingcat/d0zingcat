@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 > 📦 90.5 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -85,6 +85,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 00:05:56 UTC
+ Last Updated on 01/01/2024 00:06:18 UTC
 <!--END_SECTION:waka-->
 
