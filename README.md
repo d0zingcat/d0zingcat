@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 > 📦 90.5 kB Used in GitHub's Storage 
  > 
+> 🏆 64 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -83,6 +85,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2024 00:06:08 UTC
+ Last Updated on 22/04/2024 00:06:18 UTC
 <!--END_SECTION:waka-->
 
