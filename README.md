@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C491%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C494%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 > 📦 90.5 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2024
+> 🏆 65 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -75,16 +75,16 @@ Mac                      18 hrs 46 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Go                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-HCL                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Go                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HCL                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 27/04/2024 00:06:12 UTC
+ Last Updated on 28/04/2024 00:06:57 UTC
 <!--END_SECTION:waka-->
 
