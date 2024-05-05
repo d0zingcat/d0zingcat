@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C506%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,6 +84,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2024 00:06:12 UTC
+ Last Updated on 05/05/2024 00:06:19 UTC
 <!--END_SECTION:waka-->
 
