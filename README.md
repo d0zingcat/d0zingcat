@@ -9,7 +9,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C457%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C458%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,21 +50,21 @@ Sunday                   222 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Markdown                 4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Other                    4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Text                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+TypeScript               6 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Markdown                 5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Other                    3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Text                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Rust                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 23 mins      ███████████████████░░░░░░   77.85 % 
-Cursor Cli               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-VS Code                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Unknown Editor           1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Exec Wakatime            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Cursor                   17 hrs 14 mins      ███████████████████░░░░░░   76.41 % 
+Cursor Cli               2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+VS Code                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Unknown Editor           1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Exec Wakatime            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-Mac                      22 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,5 +80,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 16:25:19 UTC
+ Last Updated on 26/07/2026 16:27:17 UTC
 <!--END_SECTION:waka-->
