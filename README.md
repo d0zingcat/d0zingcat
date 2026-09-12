@@ -9,9 +9,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C246%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C249%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-652%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-657%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -52,45 +52,46 @@ Sunday                   386 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 51 mins      ████████████████████████░   94.42 % 
-TypeScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Prisma                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other                    22 hrs 43 mins      ████████████████████░░░░░   81.52 % 
+Python                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Rust                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Agent                    23 hrs 21 mins      ██████████████████████░░░   88.68 % 
-Cursor                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Codex CLI                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Claude Code              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Cursor Cli               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Agent                    22 hrs 13 mins      ████████████████████░░░░░   79.67 % 
+Claude Code              2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Cursor                   1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Codex CLI                1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Cursor Cli               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Mac                      26 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 19 mins (100.0%)
+⏱ AI Coding Time: 27 hrs 53 mins (100.0%)
 
-✍️ 295 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,644 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,180,307 Input Tokens, 7,975,875 Output Tokens
+🔤 22,571,499 Input Tokens, 8,241,202 Output Tokens
 
-💵 $66.21 Estimated AI Cost This Week
+💵 $126.73 Estimated AI Cost This Week
 
-🧠 98 AI Sessions, 1028 AI Prompts
+🧠 132 AI Sessions, 1185 AI Prompts
 
-Cursor                   323 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   1,231 lines         ████████████░░░░░░░░░░░░░   48.43 % 
+Cursor                   907 lines           █████████░░░░░░░░░░░░░░░░   35.68 % 
+GPT                      404 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 30,990 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 27,533 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -107,5 +108,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 19:07:30 UTC
+ Last Updated on 12/09/2026 18:17:10 UTC
 <!--END_SECTION:waka-->
