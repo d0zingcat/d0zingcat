@@ -9,9 +9,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C324%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C326%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-751%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-754%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -19,7 +19,7 @@
 
 > 📦 207.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,144 Contributions in the Year 2026
+> 🏆 3,146 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -52,60 +52,61 @@ Sunday                   1722 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.24 % 
-Python                   7 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Markdown                 3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-TypeScript               3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Text                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Other                    12 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   34.49 % 
+Python                   9 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+TypeScript               5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Markdown                 3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 3 mins       ███████████░░░░░░░░░░░░░░   42.48 % 
-Codex Vscode             9 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
-Agent                    3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Cursor                   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Antigravity CLI          1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Codex Vscode             17 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.47 % 
+Claude Code              12 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   35.71 % 
+Agent                    3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Antigravity CLI          1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Cursor                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 💻 Operating System: 
-Mac                      28 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 22 mins (100.0%)
+⏱ AI Coding Time: 36 hrs 22 mins (100.0%)
 
-✍️ 10,978 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 29,770 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,658,235 Input Tokens, 1,222,479 Output Tokens
+🔤 26,839,300 Input Tokens, 2,861,561 Output Tokens
 
-💵 $29.16 Estimated AI Cost This Week
+💵 $69.72 Estimated AI Cost This Week
 
-🧠 115 AI Sessions, 283 AI Prompts
+🧠 149 AI Sessions, 527 AI Prompts
 
-Qwen                     10,139 lines        ███████████████████████░░   90.89 % 
-GPT                      1,005 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Haiku                    11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Qwen                     20,948 lines        █████████████████░░░░░░░░   69.55 % 
+Gemini                   5,594 lines         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+GPT                      3,473 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Opus                     94 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Haiku                    11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,428 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 3,680 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Swift                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Swift                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
 
 
- Last Updated on 15/10/2026 16:25:47 UTC
+ Last Updated on 16/10/2026 16:23:52 UTC
 <!--END_SECTION:waka-->
