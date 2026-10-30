@@ -9,9 +9,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C375%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C377%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-835%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-843%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -19,7 +19,7 @@
 
 > 📦 209.8 kB Used in GitHub's Storage 
  > 
-> 🏆 3,269 Contributions in the Year 2026
+> 🏆 3,270 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -52,45 +52,45 @@ Sunday                   1561 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    75 hrs 53 mins      ███████████████████░░░░░░   74.11 % 
-Markdown                 10 hrs 25 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-YAML                     9 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Python                   2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-TypeScript               1 hr 49 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Other                    77 hrs 45 mins      ████████████████████░░░░░   81.77 % 
+Markdown                 6 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+YAML                     6 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Python                   1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+TypeScript               1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-Kiro                     79 hrs 15 mins      ███████████████████░░░░░░   77.40 % 
-Claude Code              17 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Codex CLI                2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Codex Vscode             1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Antigravity CLI          52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Kiro                     65 hrs 53 mins      █████████████████░░░░░░░░   69.29 % 
+Claude Code              21 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Codex Vscode             3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Codex CLI                2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Antigravity CLI          52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Mac                      102 hrs 24 mins     █████████████████████████   100.00 % 
+Mac                      95 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 102 hrs 24 mins (100.0%)
+⏱ AI Coding Time: 95 hrs 5 mins (100.0%)
 
-✍️ 10,630 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,875 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 99,219,003 Input Tokens, 1,487,464 Output Tokens
+🔤 92,828,010 Input Tokens, 1,663,280 Output Tokens
 
-💵 $458.25 Estimated AI Cost This Week
+💵 $440.67 Estimated AI Cost This Week
 
-🧠 6716 AI Sessions, 7084 AI Prompts
+🧠 5273 AI Sessions, 5738 AI Prompts
 
-Opus                     5,357 lines         █████████████░░░░░░░░░░░░   52.76 % 
-GPT                      4,546 lines         ███████████░░░░░░░░░░░░░░   44.77 % 
-Sonnet                   251 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+GPT                      4,604 lines         ████████████░░░░░░░░░░░░░   49.22 % 
+Opus                     4,505 lines         ████████████░░░░░░░░░░░░░   48.17 % 
+Sonnet                   244 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 48 characters per prompt
+📝 Concise Prompter — average 58 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -108,5 +108,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 16:23:58 UTC
+ Last Updated on 30/10/2026 16:23:31 UTC
 <!--END_SECTION:waka-->
